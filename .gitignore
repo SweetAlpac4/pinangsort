@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# Model files (kalau besar, pertimbangkan Git LFS)
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
